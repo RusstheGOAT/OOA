@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------------------------------------------------------------------
 Introduction(short-ver)
 This system facilitates the buying and selling of used electronics, such as smartphones, tablets, laptops, and accessories.
 Users can list their devices for sale, search for items to buy, and manage transactions within the platform. 
@@ -22,3 +23,4 @@ The system not only facilitates economic benefits for its users but also contrib
 
 Challenges: Implementing the "EcoTech Exchange" system comes with its set of challenges, including maintaining high-security standards to protect user data, 
 ensuring the smooth operation of transactions, and scaling the platform to accommodate a growing number of users and listings.
+--------------------------------------------------------------------------------------------------------------------------------------
